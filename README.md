@@ -165,7 +165,7 @@ I want to develop software, design automation and mobile applications for corpor
             <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg' alt='Kubernetes icon' height='32'>
         </a>
         <a href="https://aws.amazon.com/" title="AWS">
-            <i class="fab fa-aws"></i>
+            <img src='https://www.bing.com/th?id=OSK.072d9851bb41b4abc655be5d7450c051&w=156&h=112&c=7&o=6&pid=SANGAM' alt='AWS icon' height='32'>
         </a>
     </td>
 </tr>
