@@ -104,6 +104,15 @@ I want to develop software, design automation and mobile applications for corpor
         <a href="https://developer.apple.com/xcode/" title="Xcode">
             <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg' alt='Xcode icon' height='32'>
         </a>
+        <a href="https://www.rstudio.com/categories/rstudio-ide/" title="RStudio">
+            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg' alt='RStudio icon' height='32'>
+        </a>
+        <a href="https://www.jetbrains.com/phpstorm/" title="PhpStorm">
+            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg' alt='PhpStorm icon' height='32'>
+        </a>
+        <a href="https://netbeans.apache.org/" title="NetBeans">
+            <img src='https://netbeans.apache.org/images/apache-netbeans.svg' alt='NetBeans icon' height='32'>
+        </a>
     </td>
 </tr>
 <tr>
