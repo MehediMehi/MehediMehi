@@ -38,13 +38,13 @@ I want to develop software, design automation and mobile applications for corpor
     <td>OS</td>
     <td>
         <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" title="Linux / ubuntu / RHEL">
-            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='Linux icon' height='32'>
+            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='Linux icon' height='24'>
         </a>
         <a href="https://www.apple.com/in/macos/ventura/" title="MacOS">
-            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg' alt='MacOS icon' height='32'>
+            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg' alt='MacOS icon' height='24'>
         </a>
         <a href="https://www.microsoft.com/en-us/windows?r=1" title="Microsoft Windows">
-            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg' alt='Windows icon' height='32'>
+            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg' alt='Windows icon' height='24'>
         </a>
     </td>
 </tr>
