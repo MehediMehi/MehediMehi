@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Md. Mehedi Hasan Akash and I am all about Python <img src='https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/python.svg' alt='Python Icon' height='16'> , Shell Scripting [<img src='https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/terminal.svg' alt='Terminal Icon' height='16'>] and Machine Learning.
--->
+My name is Md. Mehedi Hasan Akash and I am all about Python <img src='https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/python.svg' alt='Python Icon' height='20'> , Shell Scripting <img src='https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/terminal.svg' alt='Terminal Icon' height='16'> and Machine Learning.
+<!--
 I love to work on projects, that are about education. I currently work on [lea.online, a diagnostic and learning platform for German functional illiterates](https://github.com/leaonline). The target group is employed adults, which are limited in their career path due to low fundamental literacy skills.
 I am also a constant contributor around [Meteor](https://github.com/meteor/meteor) and it's [packages ecosystem](https://github.com/Meteor-Community-Packages).
 
