@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Md. Mehedi Hasan Akash, I am a Software Engineer at the <img src='https://www.robi.com.bd/static/images/newlogo.svg' alt='Robi Icon' height='16'> [Robi Axiata Limited](https://www.robi.com.bd/en/corporate/company-profile).
+</br>
 In my current position, I work with my colleagues; I write codes to solve different problems and automate our company works as my main job, 
-and what I genuinely love doing is that I design Artificial Intelligence and Machine Learning models and automate the tedious process by scripting <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg' alt='Bash Icon' height='16'>. 
+and what I genuinely love doing is that I design Artificial Intelligence and Machine Learning models and automate the tedious process by scripting <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg' alt='Bash Icon' height='16'>.
+</br>
 I enjoy working in AI, Machine Learning, Data Science and Mobile application, and I have more than three years of experience.
+</br>
 I want to develop software, design automation and mobile applications for corporations.
 
 ## Social
